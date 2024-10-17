@@ -1,0 +1,20 @@
+#root {
+    color-scheme: light dark;
+    color: rgb(221, 221, 221);
+
+    font-synthesis: none;
+    width: 100%;
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+}
